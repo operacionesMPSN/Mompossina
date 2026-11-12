@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Composio_Mompossina__COMPOSIO_REMOTE_WORKBENCH",
+      "mcp__claude_ai_Composio_Mompossina__COMPOSIO_MULTI_EXECUTE_TOOL",
+      "mcp__claude_ai_Composio_Mompossina__COMPOSIO_SEARCH_TOOLS",
+      "mcp__claude_ai_Composio_Mompossina__COMPOSIO_GET_TOOL_SCHEMAS"
+    ]
+  }
+}
